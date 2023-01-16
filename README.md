@@ -1,7 +1,3 @@
-# HangMan
-This is a hangman game.
-
-
 import java.util.Random;
 import java.util.Scanner;
 
